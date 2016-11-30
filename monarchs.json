@@ -1,0 +1,400 @@
+[
+  {
+    "nm": "Edmund lronside",
+    "hse": "House of Wessex",
+    "ascend": 1016,
+    "descend": 1016,
+    "yrs": "1016"
+  },
+  {
+    "nm": "Cnut",
+    "hse": "House of Denmark",
+    "ascend": 1016,
+    "descend": 1035,
+    "yrs": "1016-1035"
+  },
+  {
+    "nm": "Harold I Harefoot",
+    "hse": "House of Denmark",
+    "ascend": 1035,
+    "descend": 1040,
+    "yrs": "1035-1040"
+  },
+  {
+    "nm": "Harthacanut",
+    "hse": "House of Denmark",
+    "ascend": 1040,
+    "descend": 1042,
+    "yrs": "1040-1042"
+  },
+  {
+    "nm": "Edward the Confessor",
+    "hse": "House of Wessex",
+    "ascend": 1042,
+    "descend": 1066,
+    "yrs": "1042-1066"
+  },
+  {
+    "nm": "Harold II",
+    "hse": "House of Wessex",
+    "ascend": 1066,
+    "descend": 1066,
+    "yrs": "1066"
+  },
+  {
+    "nm": "William I",
+    "hse": "House of Normandy",
+    "ascend": 1066,
+    "descend": 1087,
+    "yrs": "1066-1087"
+  },
+  {
+    "nm": "William II",
+    "hse": "House of Normandy",
+    "ascend": 1087,
+    "descend": 1100,
+    "yrs": "1087-1100"
+  },
+  {
+    "nm": "Henry I",
+    "hse": "House of Normandy",
+    "ascend": 1100,
+    "descend": 1135,
+    "yrs": "1100-1135"
+  },
+  {
+    "nm": "Stephen",
+    "hse": "House of Blois",
+    "ascend": 1135,
+    "descend": 1154,
+    "yrs": "1135-1154"
+  },
+  {
+    "nm": "Henry II",
+    "hse": "House of Angevin",
+    "ascend": 1154,
+    "descend": 1189,
+    "yrs": "1154-1189"
+  },
+  {
+    "nm": "Richard I",
+    "hse": "House of Angevin",
+    "ascend": 1189,
+    "descend": 1199,
+    "yrs": "1189-1199"
+  },
+  {
+    "nm": "John",
+    "hse": "House of Angevin",
+    "ascend": 1199,
+    "descend": 1216,
+    "yrs": "1199-1216"
+  },
+  {
+    "nm": "Henry III",
+    "hse": "House of Plantagenet",
+    "ascend": 1216,
+    "descend": 1272,
+    "yrs": "1216-1272"
+  },
+  {
+    "nm": "Edward I",
+    "hse": "House of Plantagenet",
+    "ascend": 1272,
+    "descend": 1307,
+    "yrs": "1272-1307"
+  },
+  {
+    "nm": "Edward II",
+    "hse": "House of Plantagenet",
+    "ascend": 1307,
+    "descend": 1327,
+    "yrs": "1307-1327"
+  },
+  {
+    "nm": "Edward III",
+    "hse": "House of Plantagenet",
+    "ascend": 1327,
+    "descend": 1377,
+    "yrs": "1327-1377"
+  },
+  {
+    "nm": "Richard II",
+    "hse": "House of Plantagenet",
+    "ascend": 1377,
+    "descend": 1399,
+    "yrs": "1377-1399"
+  },
+  {
+    "nm": "Henry IV",
+    "hse": "House of Lancaster",
+    "ascend": 1399,
+    "descend": 1413,
+    "yrs": "1399-1413"
+  },
+  {
+    "nm": "Henry V",
+    "hse": "House of Lancaster",
+    "ascend": 1413,
+    "descend": 1422,
+    "yrs": "1413-1422"
+  },
+  {
+    "nm": "Henry VI",
+    "hse": "House of Lancaster",
+    "ascend": 1422,
+    "descend": 1461,
+    "yrs": "1422-1461"
+  },
+  {
+    "nm": "Edward IV",
+    "hse": "House of York",
+    "ascend": 1461,
+    "descend": 1483,
+    "yrs": "1461-1483"
+  },
+  {
+    "nm": "Edward V",
+    "hse": "House of York",
+    "ascend": 1483,
+    "descend": 1483,
+    "yrs": "1483"
+  },
+  {
+    "nm": "Richard III",
+    "hse": "House of York",
+    "ascend": 1483,
+    "descend": 1485,
+    "yrs": "1483-1485"
+  },
+  {
+    "nm": "Henry VII",
+    "hse": "House of Tudor",
+    "ascend": 1485,
+    "descend": 1509,
+    "yrs": "1485-1509"
+  },
+  {
+    "nm": "Henry VIII",
+    "hse": "House of Tudor",
+    "ascend": 1509,
+    "descend": 1547,
+    "yrs": "1509-1547"
+  },
+  {
+    "nm": "Edward VI",
+    "hse": "House of Tudor",
+    "ascend": 1547,
+    "descend": 1553,
+    "yrs": "1547-1553"
+  },
+  {
+    "nm": "Mary I",
+    "hse": "House of Tudor",
+    "ascend": 1553,
+    "descend": 1558,
+    "yrs": "1553-1558"
+  },
+  {
+    "nm": "Elizabeth I",
+    "hse": "House of Tudor",
+    "ascend": 1558,
+    "descend": 1603,
+    "yrs": "1558-1603"
+  },
+  {
+    "nm": "James I",
+    "hse": "House of Stuart",
+    "ascend": 1603,
+    "descend": 1625,
+    "yrs": "1603-1625"
+  },
+  {
+    "nm": "Charles I",
+    "hse": "House of Stuart",
+    "ascend": 1625,
+    "descend": 1649,
+    "yrs": "1625-1649"
+  },
+  {
+    "nm": "Commonwealth",
+    "hse": "Commonwealth",
+    "ascend": 1649,
+    "descend": 1653,
+    "yrs": "1649-1653"
+  },
+  {
+    "nm": "Oliver Cromwell",
+    "hse": "Commonwealth",
+    "ascend": 1653,
+    "descend": 1658,
+    "yrs": "1653-1658"
+  },
+  {
+    "nm": "Richard Cromwell",
+    "hse": "Commonwealth",
+    "ascend": 1658,
+    "descend": 1659,
+    "yrs": "1658-1659"
+  },
+  {
+    "nm": "Charles II",
+    "hse": "House of Stuart",
+    "ascend": 1660,
+    "descend": 1685,
+    "yrs": "1660-1685"
+  },
+  {
+    "nm": "James II",
+    "hse": "House of Stuart",
+    "ascend": 1685,
+    "descend": 1688,
+    "yrs": "1685-1688"
+  },
+  {
+    "nm": "William III",
+    "hse": "House of Orange",
+    "ascend": 1689,
+    "descend": 1694,
+    "yrs": "1689-1694"
+  },
+  {
+    "nm": "Anne",
+    "hse": "House of Stuart",
+    "ascend": 1702,
+    "descend": 1714,
+    "yrs": "1702-1714"
+  },
+  {
+    "nm": "George I",
+    "hse": "House of Hanover",
+    "ascend": 1714,
+    "descend": 1727,
+    "yrs": "1714-1727"
+  },
+  {
+    "nm": "George II",
+    "hse": "House of Hanover",
+    "ascend": 1727,
+    "descend": 1760,
+    "yrs": "1727-1760"
+  },
+  {
+    "nm": "George III",
+    "hse": "House of Hanover",
+    "ascend": 1760,
+    "descend": 1820,
+    "yrs": "1760-1820"
+  },
+  {
+    "nm": "George IV",
+    "hse": "House of Hanover",
+    "ascend": 1820,
+    "descend": 1830,
+    "yrs": "1820-1830"
+  },
+  {
+    "nm": "William IV",
+    "hse": "House of Hanover",
+    "ascend": 1830,
+    "descend": 1837,
+    "yrs": "1830-1837"
+  },
+  {
+    "nm": "Victoria",
+    "hse": "House of Hanover",
+    "ascend": 1837,
+    "descend": 1901,
+    "yrs": "1837-1901"
+  },
+  {
+    "nm": "Edward VII",
+    "hse": "House of Saxe-Coburg-Gotha",
+    "ascend": 1901,
+    "descend": 1910,
+    "yrs": "1901-1910"
+  },
+  {
+    "nm": "George V",
+    "hse": "House of Windsor",
+    "ascend": 1910,
+    "descend": 1936,
+    "yrs": "1910-1936"
+  },
+  {
+    "nm": "Edward VIII",
+    "hse": "House of Windsor",
+    "ascend": 1936,
+    "descend": 1936,
+    "yrs": "1936"
+  },
+  {
+    "nm": "George VI",
+    "hse": "House of Windsor",
+    "ascend": 1936,
+    "descend": 1952,
+    "yrs": "1936-1952"
+  },
+  {
+    "nm": "Elizabeth II",
+    "hse": "House of Windsor",
+    "ascend": 1952,
+    "yrs": "1952-"
+  },
+  {
+    "nm": "Edward the Elder",
+    "hse": "House of Wessex",
+    "ascend": 899,
+    "descend": 925,
+    "yrs": "899-925"
+  },
+  {
+    "nm": "Athelstan",
+    "hse": "House of Wessex",
+    "ascend": 925,
+    "descend": 940,
+    "yrs": "925-940"
+  },
+  {
+    "nm": "Edmund",
+    "hse": "House of Wessex",
+    "ascend": 940,
+    "descend": 946,
+    "yrs": "940-946"
+  },
+  {
+    "nm": "Edred",
+    "hse": "House of Wessex",
+    "ascend": 946,
+    "descend": 955,
+    "yrs": "946-955"
+  },
+  {
+    "nm": "Edwy",
+    "hse": "House of Wessex",
+    "ascend": 955,
+    "descend": 959,
+    "yrs": "955-959"
+  },
+  {
+    "nm": "Edgar",
+    "hse": "House of Wessex",
+    "ascend": 959,
+    "descend": 975,
+    "yrs": "959-975"
+  },
+  {
+    "nm": "Edward the Martyr",
+    "hse": "House of Wessex",
+    "ascend": 975,
+    "descend": 978,
+    "yrs": "975-978"
+  },
+  {
+    "nm": "Ethelred II the Unready",
+    "hse": "House of Wessex",
+    "ascend": 978,
+    "descend": 1016,
+    "yrs": "978-1016"
+  }
+]
